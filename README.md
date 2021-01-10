@@ -8,7 +8,6 @@ Worked on:
 
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/-UltraSonic%20Sensor-3DDC84?style=for-the-badge&logo=ultrasonic&logoColor=yellow' height='30'/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on self project
 - 🌱 I’m currently improving my knowledge on Algorithm 
