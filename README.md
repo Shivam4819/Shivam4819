@@ -11,5 +11,5 @@ Worked on:
 
 - 🔭 I’m currently working on self project
 - 🌱 I’m currently improving my knowledge on Algorithm 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivam-tiwari-b92163173/) | [shivam4819@gmail.com]()
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivam-tiwari-b92163173/) | [shivamt7710@gmail.com]()
 
