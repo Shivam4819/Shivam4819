@@ -6,7 +6,7 @@ Skills:
 
 Worked on:
 
-<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white' height='30' /> <img src='https://img.shields.io/badge/React Js-ED8B00?style=for-the-badge&logo=React&logoColor=orage' height='30' /> <img src='https://img.shields.io/badge/Node Js-3DDC84?style=for-the-badge&logo=Node.js&logoColor=white' height='30'/>
+<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white' height='30' /> <img src='https://img.shields.io/badge/React Js-ED8B00?style=for-the-badge&logo=React&logoColor=orage' height='30' /> <img src='https://img.shields.io/badge/Node Js-3DDC84?style=for-the-badge&logo=Node.js&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Redis-00000F?style=for-the-badge&logo=Redis&logoColor=white' height='30' />
 
 Few Projects Urls-
  1. Spring Boot
