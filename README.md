@@ -23,7 +23,7 @@ Few Projects Urls-
     
 
  3. Node js
-    - EBook - https://github.com/Shivam4819/EBookShop
+    - EBookShop - https://github.com/Shivam4819/EBookShop
     - order anything- https://github.com/Shivam4819/OrderAnything
 
 - 🔭 I’m currently working on self project
